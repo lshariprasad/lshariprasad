@@ -59,15 +59,28 @@
 
 ---
 
-### 🚀 Languages
+### 🚀 Animated Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" alt="Repo Language Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" alt="Most Used Languages Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true&langs_count=8&card_width=400&custom_title=Languages+I+Use" />
+</p>
+
+> 🎨 *Animated Bar Graph:*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contribution Graph" />
 </p>
 
 ---
 
-### ⚡ Animated Typing Intro  
+### ⚡ Typing Animation  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&width=435&lines=Web+Developer;Code.+Create.+Conquer.;Learning+Every+Day+🚀;I+Am+Batman+🦇" alt="Typing Animation" />
