@@ -14,7 +14,7 @@
 ### 🌍 About Me  
 
 > 📍 From **Chennai, Tamil Nadu, India**  
-> 📧 Mail me at: **[06hariumaraja@gmail.com](mailto:06hariumaraja@gmail.com)**  / **[lshariprasad1410@gmail.com](mailto:lshariprasad1410@gmail.com)** 
+> 📧 Mail me at: **[06hariumaraja@gmail.com](mailto:06hariumaraja@gmail.com)**  / **[lshariprasad1410@gmail.com](mailto:lshariprasad1410@gmail.com)**
 > 🌱 Learning **JavaScript** & **Modern Web Tech**  
 > 🤝 Looking to collaborate on **Open Source Projects**  
 > 🦇 “I am Batman. Tell everyone.”  
