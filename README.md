@@ -24,7 +24,7 @@
 ### 🧠 Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,arduino,docker,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode,arduino,docker" />
 </p>
 
 ---
