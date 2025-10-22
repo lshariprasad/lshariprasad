@@ -78,14 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true" width="450px" />  
 </p>  
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/main/assets/github-languages.png" alt="Languages Used Graph" width="700px" />  
-</p>  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-view.svg" width="700px" alt="3D Contribution Graph" />
-</p>
-
 ---
 
 ### 🎖️ Achievements  
