@@ -31,7 +31,7 @@
 
 ## 🎯 Human + AI Integration Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,pythongit,github,,arduino,VSstudio,docker,solidworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,,arduino,vsstudio,docker,solidworks" />
 </p>
 
 ---
