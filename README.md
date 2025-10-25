@@ -36,9 +36,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lshariprasad&theme=highcontrast&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark&background=0D1117&text_color=ffffff&title_color=red&border_color=ffffff" width="90%" />
-</p>
 
 
 
