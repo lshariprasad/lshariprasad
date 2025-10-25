@@ -1,10 +1,14 @@
-<!-- Futuristic Typing Header -->
-<p align="center">
-  <p>👋Hey,I'm HARI PRASAD L S </p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=700&color=FFD700&center=true&vCenter=true&width=720&lines=⚡+Engineering+Imagination+Into+Reality;Inventing+Beyond+Boundaries💡;" alt="Typing Animation"/>
+<!-- Waving Hand & Greeting -->
+<p align="center" style="font-family:Arial; font-size:22px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey, I'm HARI PRASAD L S
 </p>
 
-<h1 align="center" style="color:#ffffff;">🚀 Visionary Engineer • Robotics Aficionado • Human-First Coder</h1>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=35&pause=700&color=FFD700&center=true&vCenter=true&width=720&lines=⚡+Engineering+Imagination+Into+Reality;Inventing+Beyond+Boundaries💡;" alt="Typing Animation"/>
+</p>
+
+<h1 align="center" style="font-family:Arial; color:#ffffff;">🚀 Visionary Engineer • Robotics Aficionado • Human-First Coder</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
@@ -13,8 +17,10 @@
 ---
 
 ## ⚙️ About Me
+<p style="font-family:Arial; color:#ffffff;">
 > “Driven by curiosity, powered by code, shaped by purpose.”  
 > Every idea starts as a sketch — I turn sketches into living machines.
+</p>
 
 - 🧭 **From:** Chennai, Tamil Nadu, India  
 - 📧 **Email:** [06hariumaraja@gmail.com](mailto:06hariumaraja@gmail.com) | [lshariprasad1410@gmail.com](mailto:lshariprasad1410@gmail.com)  
@@ -50,7 +56,6 @@
 |:----------------------|:---------------------------------|:------------------:|
 | **6-DOF Robotic Arm** | Infection-free, remote-controlled patient support system | Arduino, 3D Printing, Servo System |
 | **Automation Dashboard** | IoT-based intelligent control panel for healthcare robotics | Python, Docker |
-| **Portfolio Site** | Responsive showcase of creativity and coding | HTML, CSS, JS |
 
 ---
 
