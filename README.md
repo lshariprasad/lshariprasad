@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"width="40px">
 <span style="color:#facc15;">Hi, I'm HARI PRASAD L S</span>  
 </h1>
 
@@ -24,7 +24,7 @@
 ### 🧠 Skills & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode,arduino,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode,arduino,docker,SolidWorks,KiCAD 9.0" />
 </p>
 
 ---
