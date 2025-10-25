@@ -1,6 +1,7 @@
 <!-- Futuristic Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=700&color=FFD700&center=true&vCenter=true&width=720&lines=⚡+Engineering+Imagination+Into+Reality;👋+Hey,+I'm+HARI+PRASAD+L+S!;Inventing+Beyond+Boundaries💡;" alt="Typing Animation"/>
+  <p>👋Hey,I'm HARI PRASAD L S </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=700&color=FFD700&center=true&vCenter=true&width=720&lines=⚡+Engineering+Imagination+Into+Reality;Inventing+Beyond+Boundaries💡;" alt="Typing Animation"/>
 </p>
 
 <h1 align="center" style="color:#ffffff;">🚀 Visionary Engineer • Robotics Aficionado • Human-First Coder</h1>
@@ -24,7 +25,7 @@
 
 ## 🛠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,arduino,solidworks,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,arduino,docker,vscode,solidworks" />
 </p>
 
 ---
