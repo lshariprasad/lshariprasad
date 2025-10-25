@@ -51,8 +51,9 @@
 ### ⚡ GitHub Performance  
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onedark&row=1&column=6&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onedark&row=1&column=6&no-frame=true&margin-w=10&margin-h=10)
 </p>
+
 
 ---
 
