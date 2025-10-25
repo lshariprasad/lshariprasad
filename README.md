@@ -53,7 +53,7 @@
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onedark&no-frame=true&margin-w=10&title=Commit,Stars,Followers,Repositories,PullRequest,Issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&theme=github_light&hide_border=false&title_color=ff0000&text_color=000000&icon_color=ff0000" width="90%" />
 </p>
 
 ---
