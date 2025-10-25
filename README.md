@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark&background=0D1117&text_color=ffffff&title_color=red&border_color=1f1f1f" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark&background=0D1117&text_color=ffffff&title_color=red&border_color=ffffff" width="90%" />
 </p>
 
 
@@ -47,7 +47,7 @@
 ### 📊 GitHub Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 
