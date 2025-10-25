@@ -6,7 +6,7 @@
 <h3 align="center" style="color:#ffffff;">💻 Web Developer | ⚡ Creative Coder | 🌐 Tech Enthusiast</h3>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Code.+Create.+Conquer.;Designing+In+Darkness+⚡;Redefining+Web+Magic+🔥;Precision.+Power.+Passion.;I+LOVE+VASAVI" alt="Typing Animation" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Code.+Create.+Conquer.;Designing+In+Darkness+⚡;Redefining+Web+Magic+🔥;Precision.+Power.+Passion.;" alt="Typing Animation" /> 
 </p>
 
 ---
@@ -17,7 +17,7 @@
 > 📧 Mail me at: **[06hariumaraja@gmail.com](mailto:06hariumaraja@gmail.com)** / **[lshariprasad1410@gmail.com](mailto:lshariprasad1410@gmail.com)**  
 > 🌱 Learning **JavaScript** & **Modern Web Tech**  
 > 🤝 Open for **collaboration & innovation**  
-> 💬 Motto — *“Red defines Power. Black defines Control.”*  
+> 💬 Motto — *“Every Pain, Build With A Precision ”*  
 
 ---
 
