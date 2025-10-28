@@ -3,7 +3,7 @@
   <span style="color:#FFD700;">Hi, I'm HARI PRASAD L S</span>   
 </h1>
 
-<h3 align="center" style="color:#ffffff;">💻 Web Developer | ⚡ Creative Coder | 🌐 Tech Enthusiast</h3>
+<h3 align="center" style="color:#ffffff;">💻 Python & JS Developer | ⚡ Creative Coder | 🌐 Tech Enthusiast</h3>
 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Code.+Create.+Conquer.;Designing+In+Darkness+⚡;Redefining+Web+Magic+🔥;Precision.+Power.+Passion.;" alt="Typing Animation" /> 
