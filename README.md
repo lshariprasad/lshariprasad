@@ -47,6 +47,44 @@
 
 ---
 
+---
+
+### 📚 Coding Profiles & Progress
+
+<p align="center">
+
+<!-- LeetCode Card -->
+<a href="https://leetcode.com/u/ls_hariprasad/">
+  <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Nunito&ext=heatmap" width="48%" />
+</a>
+
+<!-- GitHub Stats Overview -->
+<a href="https://github.com/lshariprasad">
+  <img src="https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&theme=radical" width="48%" />
+</a>
+
+</p>
+
+<p align="center">
+
+<!-- GeeksforGeeks Badge -->
+<a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+</a>
+
+<!-- LeetCode Badge -->
+<a href="https://leetcode.com/u/ls_hariprasad/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
+</a>
+
+<!-- GitHub Badge -->
+<a href="https://github.com/lshariprasad">
+  <img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
 
 
 ### 🐍 Contribution Snake
