@@ -47,7 +47,7 @@
 
 ---
 
----
+### 📚 Coding Profiles & Progress
 
 <p align="center">
 
@@ -56,22 +56,13 @@
   <img src="https://leetcode.card.workers.dev/ls_hariprasad?theme=dark&font=Noto%20Sans&extension=activity" width="48%" alt="LeetCode Stats"/>
 </a>
 
-<!-- GeeksforGeeks Card -->
+<!-- GeeksforGeeks Progress Card -->
 <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=lshariprawwyr" width="48%" alt="GFG Stats"/>
+  <img src="https://gfgstatscard.vercel.app/api?username=lshariprawwyr&theme=dark" width="48%" alt="GFG Stats"/>
 </a>
 
 </p>
 
-<!-- GeeksforGeeks Badge -->
-<a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
-</a>
-
-<!-- LeetCode Badge -->
-<a href="https://leetcode.com/u/ls_hariprasad/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
-</a>
 
 ---
 
