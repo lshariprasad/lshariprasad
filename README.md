@@ -49,14 +49,19 @@
 
 ---
 
-### 📚 Coding Profiles & Progress
-
 <p align="center">
 
 <!-- LeetCode Card -->
 <a href="https://leetcode.com/u/ls_hariprasad/">
-  <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Nunito&ext=heatmap" width="48%" />
+  <img src="https://leetcode.card.workers.dev/ls_hariprasad?theme=dark&font=Noto%20Sans&extension=activity" width="48%" alt="LeetCode Stats"/>
 </a>
+
+<!-- GeeksforGeeks Card -->
+<a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=lshariprawwyr" width="48%" alt="GFG Stats"/>
+</a>
+
+</p>
 
 <!-- GeeksforGeeks Badge -->
 <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
