@@ -1,33 +1,21 @@
-<h1 align="center">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">
-<span style="color:#FFD700;">Hi, I'm HARI PRASAD L S</span>
-</h1>
-
-<h3 align="center" style="color:#ffffff;">💻 Python Developer | ⚡ Creative Coder | 🌐 Tech Enthusiast</h3>
+<h1 align="center">Hi, I'm Hari Prasad 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Code.+Create.+Conquer.;Designing+In+Darkness+⚡;Redefining+Web+Magic+🔥;Precision.+Power.+Passion.;" alt="Typing Animation"/>
-</p>
-
-<p align="center">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" alt="Coding GIF">
+B.Tech Undergraduate in Electrical & Electronics Engineering  
+Focused on building clean, functional, and human-centered digital experiences.
 </p>
 
 ---
 
-### 🌍 About Me
+### 🌱 About Me
 
-I’m a creator who enjoys mixing logic with style.  
-I like building projects that **look clean, run smooth, and feel intentional**.  
-When inspiration hits, I go deep — experimenting, refining, making things better than before.
+- Currently learning **Python**, **JavaScript**, and modern **Web Development**
+- Interested in **UI/UX**, minimal aesthetic design, and smooth user interactions
+- Consistency > Perfection — I improve myself **1% every day**
+- I like tackling problems late at night with a cup of music and silence  
+- My goal is to **build things that feel meaningful, useful, and hard to ignore**
 
-- 🎓 B.Tech EEE Student  
-- 💡 Interested in **Python**, **Web Dev**, UI/UX **Aesthetic Interfaces**
-- 🎧 Music-fueled late-night coding mode is real  
-- 🧠 I improve something about myself every day  
-- 🔥 I don’t chase perfection — I chase **progress**
-
-> ✨ *Goal:* Build things that stand out, not blend in.
+> *Craft. Improve. Repeat.*
 
 ---
 
@@ -49,6 +37,19 @@ When inspiration hits, I go deep — experimenting, refining, making things bett
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+</p>
+
+---
+
+### 📈 Activity & Work Graphs
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ls-hariprasad&layout=compact&theme=radical" width="44%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ls-hariprasad&theme=radical&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ls-hariprasad&label=Profile%20Views&color=ff69b4&style=flat">
 </p>
 
 ---
@@ -79,4 +80,4 @@ When inspiration hits, I go deep — experimenting, refining, making things bett
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
+<p align="center">⭐ If my projects help or inspire you — consider giving a star!</p>
