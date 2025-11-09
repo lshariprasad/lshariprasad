@@ -77,13 +77,6 @@
   <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
 </a>
 
-<!-- GitHub Badge -->
-<a href="https://github.com/lshariprasad">
-  <img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
 ---
 
 
