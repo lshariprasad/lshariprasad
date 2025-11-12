@@ -15,7 +15,15 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,unity,blender,matlab,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,pyhton,arduino" />
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,doctor" />
 </p>
 
 ---
