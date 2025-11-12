@@ -5,6 +5,22 @@
   I'm a passionate developer and a continuous learner, driven by the challenge of solving real-world problems. I believe in the power of technology to create efficient and elegant solutions, and I'm always excited to explore new tools to build something great.
 </p>
 
+### 📬 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/lshariprasad" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" width="50" height="50" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=16733&format=png&color=000000" width="50" height="50" alt="WhatsApp"/>
+  </a>
+</p>
+
 ---
 
 ### 💻 Tech Stack
@@ -53,4 +69,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&theme=tokyonight" width="49%">
+</p>
+
+---
+
+### 🏆 Competitive Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=tokyonight" width="49%">
+  <img src="https://gfg-card.vercel.app/api?username=YOUR_GFG_USERNAME&theme=tokyonight" width="49%">
 </p>
