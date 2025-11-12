@@ -7,7 +7,7 @@
 ### 🌌 About Me  
 💡 I’m an **Electrical Engineer** with a growing passion for **coding, design, and innovation.**  
 🔥 I love building projects that blend **engineering logic with creative power.**  
-🎯 Currently focused on mastering **C, C++, C#, Python, Unity, Blender, and MATLAB.**  
+🎯 Currently focused on mastering **Project Based On JS**  
 💪 I believe in consistency, self-discipline, and lifelong learning.
 
 ---
@@ -15,7 +15,7 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,pyhton,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino" />
 </p>
 
 ---
