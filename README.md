@@ -4,14 +4,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Passionate+about+Programming+and+Electronics;Exploring+Game+Development;Always+Learning+and+Building+Cool+Tech+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⚡+Passionate+about+Programming+and+Electronics;🎮+Exploring+Game+Development;💡+Always+Learning+and+Building+Cool+Tech+Things!" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
-### 🌌 About Me  
+### 🌌 <span style="color:#FFD700;">About Me</span>  
 💡 I’m an **Electrical Engineer** with a growing passion for **coding, design, and innovation.**  
 🔥 I love building projects that blend **engineering logic with creative power.**  
 🎯 Currently focused on mastering **JavaScript Projects and Game Development.**  
@@ -19,35 +17,33 @@
 
 ---
 
-### 🧠 Tech Stack  
+### 🧠 <span style="color:#FFD700;">Tech Stack</span>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino" />
+<p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino&theme=dark" />
 </p>
 
 ---
 
-### 🧰 Tools  
+### 🧰 <span style="color:#FFD700;">Tools</span>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 </p>
 
 ---
 
-### 🏆 Coding Profiles  
+### 🏆 <span style="color:#FFD700;">Coding Profiles</span>
 
 #### 🔹 GeeksforGeeks  
-[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?user=lshariprawwyr)](https://www.geeksforgeeks.org/user/lshariprawwyr/)
+[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?user=lshariprawwyr&theme=dark&border_color=FFD700&title_color=FFD700)](https://www.geeksforgeeks.org/user/lshariprawwyr/)
 
 #### 🔹 LeetCode  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/ls_hariprasad/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Karma&ext=activity&border=FFD700&radius=10)](https://leetcode.com/u/ls_hariprasad/)
 
 ---
 
----
-
-### 🏆 GitHub TROOPS & Stats (LeetCode Themed 🟡⚫)
+### 🏆 <span style="color:#FFD700;">GitHub TROOPS & Stats (LeetCode Themed 🟡⚫)</span>
 
 <p align="center">
   <!-- 🏆 Trophy Section -->
@@ -67,21 +63,39 @@
 
 ---
 
-<!-- 🐍 Snake Contribution Animation (Black Background) -->
+<!-- 🐍 Snake Background (Black + Gold Glow Theme) -->
 <div align="center" style="
   position: relative;
   overflow: hidden;
   border-radius: 20px;
   height: 350px;
   background-color: #000000;
-  box-shadow: 0 0 25px rgba(255,255,255,0.05);
+  box-shadow: 0 0 25px rgba(255,215,0,0.1);
 ">
   <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg"
        alt="snake animation"
-       style="width: 100%; height: 100%; opacity: 0.3; position: absolute; top: 0; left: 0;"/>
-  <h2 style="color: white; position: relative; z-index: 1; padding-top: 140px;">
-    🐍 Watch My Contribution Snake
-  </h2>
+       style="
+         width: 100%;
+         height: 100%;
+         opacity: 0.35;
+         position: absolute;
+         top: 0;
+         left: 0;
+       "/>
+  <div style="
+        position: relative;
+        z-index: 1;
+        color: #FFD700;
+        padding-top: 130px;
+        font-family: 'Segoe UI', sans-serif;
+      ">
+    <h2 style="font-size: 1.8em; font-weight: 600; letter-spacing: 1px;">
+      🐍 Watch My Contribution Snake
+    </h2>
+    <p style="opacity: 0.9; font-size: 1.1em; color: white;">
+      My commits come alive — crawling through time and code ⚡
+    </p>
+  </div>
 </div>
 
 ---
