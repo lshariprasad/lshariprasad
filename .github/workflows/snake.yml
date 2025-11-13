@@ -8,6 +8,7 @@
   background-size: 600% 600%;
   animation: gradientShift 10s ease infinite;
 ">
+
   <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg"
        alt="snake animation"
        style="width: 100%; height: 100%; opacity: 0.3; position: absolute; top: 0; left: 0;"/>
