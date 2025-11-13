@@ -62,7 +62,9 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
 </p>
+
 ---
+
 <!-- 🐍 Snake Contribution Animation (Black Background) -->
 <div align="center" style="
   position: relative;
