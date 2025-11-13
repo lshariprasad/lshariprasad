@@ -1,11 +1,10 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">
-  <span style="color:#FFD700;">Hi, I'm HARI PRASAD L S</span> 👋
+  <span style="color:#FFD700;">Hi, I'm HARI PRASAD L S</span>
 </h1>
 
 <p align="center">
-  🎯 Passionate about <b>Programming, Electronics, and Game Development</b><br>
-  💡 Always learning and building cool tech things
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=🎯+Passionate+about+Programming,+Electronics,+and+Game+Development;💡+Always+Learning+and+Building+Cool+Tech+Things!" alt="Typing SVG" />
 </p>
 
 ---
