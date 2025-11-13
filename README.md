@@ -100,20 +100,17 @@
 
 ---
 
-### 💬 Quote  
-> “Discipline beats motivation. Consistency builds power.” ⚡
-
----
-
 ### 🌐 Connect with Me  
+
 <p align="center">
   <a href="https://github.com/lshariprasad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 10px; filter: drop-shadow(0px 0px 5px #FFA116);" />
   </a>
   <a href="https://leetcode.com/u/ls_hariprasad/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="50" height="50" style="margin: 10px; filter: drop-shadow(0px 0px 5px #FFA116);" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50" height="50" style="margin: 10px; filter: drop-shadow(0px 0px 5px #FFA116);" />
   </a>
 </p>
+
