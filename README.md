@@ -21,7 +21,7 @@
 ### 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,python,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### 🧰 Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
