@@ -1,6 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hari+Prasad+L+S+👋;Electrical+Engineer+⚡;C%2C+C%2B%2B%2C+C%23+%7C+Python+%7C+Unity+Developer;Driven+by+Discipline+and+Innovation+🚀" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">
+  <span style="color:#FFD700;">Hi, I'm HARI PRASAD L S</span> 👋
 </h1>
+
+<p align="center">
+  🎯 Passionate about <b>Programming, Electronics, and Game Development</b><br>
+  💡 Always learning and building cool tech things
+</p>
 
 ---
 
