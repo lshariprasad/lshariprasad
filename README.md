@@ -45,22 +45,24 @@
 
 ---
 
-### 🏆 GitHub TROOPS & Stats
+---
+
+### 🏆 GitHub TROOPS & Stats (LeetCode Themed 🟡⚫)
 
 <p align="center">
-  <!-- Trophy Section -->
-  <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <!-- 🏆 Trophy Section -->
+  <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=monokai&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  <!-- 📊 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&theme=highcontrast&icon_color=FFD700&title_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&ring=FFD700&fire=FFB000&currStreakLabel=FFD700&hide_border=true&background=0D1117&border_radius=10" height="165" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  <!-- 🧠 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&theme=highcontrast&title_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" height="165" />
 </p>
 
 ---
