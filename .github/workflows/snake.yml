@@ -1,15 +1,15 @@
-name: Generate Snake
+name: Generate Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"   # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake
@@ -18,7 +18,7 @@ jobs:
           github_user_name: lshariprasad
           outputs: dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push Snake Animation to Output Branch
+      - name: Push Snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
