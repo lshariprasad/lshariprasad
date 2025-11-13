@@ -13,7 +13,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,javascript,react,unity,blender,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,arduino,git,github,vscode" />
 </p>
 
 ---
