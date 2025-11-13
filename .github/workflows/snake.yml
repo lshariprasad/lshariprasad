@@ -1,29 +1,25 @@
-name: Generate Snake 🐍
+<!-- 🐍 Gradient Snake Background -->
+<div align="center" style="
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px;
+  height: 350px;
+  background: linear-gradient(270deg, black, white, black);
+  background-size: 600% 600%;
+  animation: gradientShift 10s ease infinite;
+">
+  <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg"
+       alt="snake animation"
+       style="width: 100%; height: 100%; opacity: 0.3; position: absolute; top: 0; left: 0;"/>
+  <h2 style="color: white; position: relative; z-index: 1; padding-top: 140px;">
+    🐍 Watch My Contribution Snake
+  </h2>
+</div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: lshariprasad
-          outputs: dist/github-contribution-grid-snake-dark.svg
-
-      - name: Push Snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
