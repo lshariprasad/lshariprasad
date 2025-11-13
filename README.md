@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=🎯+Passionate+about+Programming+and+Electronics;🎮+Exploring+Game+Development;💡+Always+Learning+and+Building+Cool+Tech+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Passionate+about+Programming+and+Electronics;Exploring+Game+Development;Always+Learning+and+Building+Cool+Tech+Things!" alt="Typing SVG" />
 </p>
+
 
 
 ---
