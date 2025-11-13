@@ -24,3 +24,39 @@
   100% { background-position: 0% 50%; }
 }
 </style>
+
+<!-- 🐍 Snake Background (Black Theme) -->
+<div align="center" style="
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+  height: 350px;
+  background-color: #000000;
+  box-shadow: 0 0 25px rgba(255,255,255,0.05);
+">
+  <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg"
+       alt="snake animation"
+       style="
+         width: 100%;
+         height: 100%;
+         opacity: 0.35;
+         position: absolute;
+         top: 0;
+         left: 0;
+       "/>
+  <div style="
+        position: relative;
+        z-index: 1;
+        color: white;
+        padding-top: 130px;
+        font-family: 'Segoe UI', sans-serif;
+      ">
+    <h2 style="font-size: 1.8em; font-weight: 600; letter-spacing: 1px;">
+      🐍 Watch My Contribution Snake
+    </h2>
+    <p style="opacity: 0.9; font-size: 1.1em;">
+      My commits come alive — crawling through time and code ⚡
+    </p>
+  </div>
+</div>
+
