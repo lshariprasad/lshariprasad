@@ -49,7 +49,7 @@
 
 ---
 
-### 🏆 <span style="color:#FFD700;">GitHub TROOPS & Stats (LeetCode Themed 🟡⚫)</span>
+### 🏆 <span style="color:#FFD700;">GitHub TROOPS & Stats </span>
 
 <p align="center">
   <!-- 🏆 Trophy Section -->
