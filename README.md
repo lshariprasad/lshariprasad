@@ -34,7 +34,7 @@
 ### 🧰 <span style="color:#FFD700;">Tools</span>
 
 <p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px;">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode,vercel&theme=dark" />
 </p>
 
 ---
