@@ -26,7 +26,8 @@
 ### 🧠 <span style="color:#FFD700;">Tech Stack</span>
 
 <p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,JSON,c,python,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino&theme=dark" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/json.svg" width="50"/>
 </p>
 
 ---
