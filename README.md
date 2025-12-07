@@ -12,7 +12,7 @@
 ### 🌌 <span style="color:#FFD700;">About Me</span>  
 💡 I’m an **Electrical Engineer** with a growing passion for **coding, design, and innovation.**  
 🔥 I love building projects that blend **engineering logic with creative power.**  
-🎯 Currently focused on mastering **JavaScript Projects and Game Development.**  
+🎯 Currently focused on mastering **DSA and Python Projects.**  
 💪 I believe in **consistency, self-discipline, and lifelong learning.**
 
 ---
