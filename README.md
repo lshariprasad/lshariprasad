@@ -52,9 +52,15 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 <br>
 
+<div align="center">
+
 <h3 align="center">💻 <span style="color:#FFD700;">Languages & Frameworks</span></h3>
 
-<p align="center">
+<br>
+
+#### 🐍 <span style="color:#FFD700;">Core Languages & Tech</span>
+
+<p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px; display: inline-block; border: 1px solid #FFD700;">
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFD700" />
@@ -62,6 +68,8 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" />
 </p>
+
+</div>
 
 <br>
 
