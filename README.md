@@ -27,6 +27,15 @@
 
 🔌 **Electrical Engineer** | 💻 **Full-Stack Developer** | 🤖 **Robotics & Embedded Systems Enthusiast**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+</p>
+
+<p align="center">
+  <sub>Coding in silence. Shipping with intent.</sub>
+</p>
+
+
 I'm driven by **consistency, self-discipline, and lifelong learning**. My journey bridges the physical world of electronics with the digital realm of code. I believe in building **innovative solutions** that solve real problems and create impact.
 
 **Current Focus:** - ⚡ Mastering **Data Structures & Algorithms** (DSA)
