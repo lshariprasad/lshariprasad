@@ -52,24 +52,40 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 <br>
 
-### Languages & Frameworks
+<h3 align="center">💻 <span style="color:#FFD700;">Languages & Frameworks</span></h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFD700)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFD700" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" />
+</p>
 
 <br>
 
-### Tools & Platforms
+<h3 align="center">💻 <span style="color:#FFD700;">Tools & Platforms</span></h3>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=FFD700)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
+
+### 🧰 <span style="color:#FFD700;">Development Tools</span>
+
+<p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px; display: inline-block; border: 1px solid #FFD700;">
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,figma,postman&theme=dark" />
+</p>
+
+</div>
+
+<div align="center">
+
+### 🌐 <span style="color:#FFD700;">Hosting & Platforms</span>
+
+<p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px; display: inline-block; border: 1px solid #FFD700;">
+  <img src="https://skillicons.dev/icons?i=github,vercel,netlify,arduino,raspberrypi&theme=dark" />
+</p>
+
+</div>
 
 </div>
 
