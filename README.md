@@ -19,22 +19,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
-</p>
-
----
-
 ## ⚙️ STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,arduino,html,css,js,git,github,vscode,pycharm&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -47,13 +35,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-</p>
+## 📊 PROGRESS & SIGNALS
 
----
-
-## 📊 GITHUB SIGNALS
+### 🔹 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=monokai&no-frame=true&row=1&column=6" />
@@ -70,8 +54,22 @@
 
 ---
 
+### 🔹 LeetCode Progress
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
+  <a href="https://leetcode.com/u/ls_hariprasad/">
+    <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Inter&ext=activity&border=FFD700&radius=10" />
+  </a>
+</p>
+
+---
+
+### 🔹 GeeksforGeeks Progress
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?user=lshariprawwyr&theme=dark&border_color=FFD700&title_color=FFD700" />
+  </a>
 </p>
 
 ---
@@ -114,14 +112,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlPjezGYq8Y/giphy.gif" width="280"/>
-</p>
-
-<p align="center">
   <sub>Silent work. Loud results.</sub>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=flat-square"/>
