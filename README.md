@@ -219,8 +219,6 @@ Algorithm analysis and implementation projects comparing different ML approaches
 
 <div style="background-color: #0d1117; padding: 25px; border-radius: 9px;">
 
-<div align="center">
-
 **Short Term (6-12 months):**
 - ✅ Master DSA through consistent competitive coding
 - ✅ Build 5+ portfolio-quality projects
@@ -239,7 +237,6 @@ Algorithm analysis and implementation projects comparing different ML approaches
 - 🔥 Mentoring next generation of engineers
 - 🔥 Industry recognition as an innovator
 
-</div>
 
 </div>
 
