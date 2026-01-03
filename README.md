@@ -35,6 +35,30 @@
   <sub>Coding in silence. Shipping with intent.</sub>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+</p>
+
+<p align="center">
+  <sub>Focused mode: ON</sub>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <sub>Where logic meets execution.</sub>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+</p>
+
+<p align="center">
+  <sub>Consistency over motivation.</sub>
+</p>
+
 
 I'm driven by **consistency, self-discipline, and lifelong learning**. My journey bridges the physical world of electronics with the digital realm of code. I believe in building **innovative solutions** that solve real problems and create impact.
 
