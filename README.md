@@ -42,11 +42,10 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 ## 🛠️ **TECH STACK** | Premium Arsenal
 
-</div>
-
-<div align="center" style="background: linear-gradient(180deg, rgba(255,215,0,0.05) 0%, rgba(192,192,192,0.05) 100%); padding: 25px; border-radius: 12px; border: 1px solid #C0C0C0; margin: 20px 0;">
+<br>
 
 ### Languages & Frameworks
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFD700)
@@ -54,7 +53,10 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000)
 
+<br>
+
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
@@ -69,18 +71,20 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 ## 🏆 **ACHIEVEMENTS & STATS** | Track Record of Excellence
 
-</div>
-
-<div align="center" style="margin: 30px 0;">
+<br>
 
 ### 🎖️ GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=nord&no-frame=false&no-bg=true&row=1&column=6&title_color=FFD700&icon_color=FFD700)
+
+<br>
 
 ### 📊 GitHub Statistics
 
 | | |
 |---|---|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&theme=highcontrast&icon_color=FFD700&title_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&ring=FFD700&fire=FFB000&currStreakLabel=FFD700&hide_border=true&background=0D1117&border_radius=10) |
+
+<br>
 
 ### 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&theme=highcontrast&title_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10)
@@ -129,7 +133,12 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 <div style="background: linear-gradient(135deg, rgba(255,215,0,0.1) 0%, rgba(192,192,192,0.1) 100%); padding: 20px; border-left: 4px solid #FFD700; border-radius: 8px; margin: 15px 0;">
 
+<div align="center">
+
 ### ⚡ **Electric Motor Design & Control**
+
+</div>
+
 Advanced embedded systems project combining electrical engineering principles with real-time control algorithms. Features Arduino-based PWM control and sensor integration.
 
 **Tech Stack:** C, Arduino, Embedded Systems, Circuit Design
@@ -138,7 +147,12 @@ Advanced embedded systems project combining electrical engineering principles wi
 
 <div style="background: linear-gradient(135deg, rgba(255,215,0,0.1) 0%, rgba(192,192,192,0.1) 100%); padding: 20px; border-left: 4px solid #C0C0C0; border-radius: 8px; margin: 15px 0;">
 
+<div align="center">
+
 ### 🤖 **Robotic Systems & Automation**
+
+</div>
+
 Multi-component robotics project showcasing mechanical design, electronics, and intelligent control systems.
 
 **Tech Stack:** Python, Arduino, Mechanical Design, IoT
@@ -147,7 +161,12 @@ Multi-component robotics project showcasing mechanical design, electronics, and 
 
 <div style="background: linear-gradient(135deg, rgba(255,215,0,0.1) 0%, rgba(192,192,192,0.1) 100%); padding: 20px; border-left: 4px solid #FFD700; border-radius: 8px; margin: 15px 0;">
 
+<div align="center">
+
 ### 🎮 **Game Development Exploration**
+
+</div>
+
 Building interactive games and learning game physics, graphics, and user experience design.
 
 **Tech Stack:** JavaScript, Python, Game Development Frameworks
@@ -156,7 +175,12 @@ Building interactive games and learning game physics, graphics, and user experie
 
 <div style="background: linear-gradient(135deg, rgba(255,215,0,0.1) 0%, rgba(192,192,192,0.1) 100%); padding: 20px; border-left: 4px solid #C0C0C0; border-radius: 8px; margin: 15px 0;">
 
+<div align="center">
+
 ### 📊 **AI & Machine Learning Research**
+
+</div>
+
 Algorithm analysis and implementation projects comparing different ML approaches for real-world problems.
 
 **Tech Stack:** Python, scikit-learn, TensorFlow, Data Analysis
@@ -171,13 +195,15 @@ Algorithm analysis and implementation projects comparing different ML approaches
 
 ## 🐍 **CONTRIBUTION ACTIVITY** | Watch My Code Come Alive
 
-</div>
+<br>
 
-<div align="center" style="margin: 30px 0; background-color: #000000; padding: 20px; border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 25px rgba(255,215,0,0.2);">
+<div style="background-color: #000000; padding: 20px; border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 25px rgba(255,215,0,0.2);">
 
 ![Contribution Snake](https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg)
 
 **My commits come alive** — crawling through time and code ⚡
+
+</div>
 
 </div>
 
@@ -192,6 +218,8 @@ Algorithm analysis and implementation projects comparing different ML approaches
 <div style="background: linear-gradient(135deg, #FFD700 0%, #C0C0C0 50%, #000000 100%); padding: 1px; border-radius: 10px; margin: 20px 0;">
 
 <div style="background-color: #0d1117; padding: 25px; border-radius: 9px;">
+
+<div align="center">
 
 **Short Term (6-12 months):**
 - ✅ Master DSA through consistent competitive coding
@@ -215,15 +243,15 @@ Algorithm analysis and implementation projects comparing different ML approaches
 
 </div>
 
+</div>
+
 ---
 
 <div align="center">
 
 ## 🌐 **CONNECT WITH ME** | Let's Build Together
 
-</div>
-
-<div align="center" style="margin: 30px 0;">
+<br>
 
 <a href="https://github.com/lshariprasad" target="_blank" style="text-decoration: none; margin: 0 15px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" />
