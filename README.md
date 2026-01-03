@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🌟 HARI PRASAD L S
+
+</div>
 
 <div align="center" style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #2d2d2d 100%); padding: 40px; border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255, 215, 0, 0.3), inset 0 0 20px rgba(192, 192, 192, 0.1);">
 
@@ -6,9 +10,18 @@
 
 </div>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=820&lines=Embedded+Systems+%26+Electronics;Arduino+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems;Consistency+as+a+System" />
+</p>
+
 ---
 
+<div align="center">
+
 ## 🎯 **ABOUT ME** | <span style="color:#C0C0C0;">Where Engineering Meets Code</span>
+
+</div>
 
 <div style="background-color: #0d1117; padding: 20px; border-left: 4px solid #FFD700; border-radius: 8px; margin: 20px 0;">
 
@@ -16,8 +29,7 @@
 
 I'm driven by **consistency, self-discipline, and lifelong learning**. My journey bridges the physical world of electronics with the digital realm of code. I believe in building **innovative solutions** that solve real problems and create impact.
 
-**Current Focus:** 
-- ⚡ Mastering **Data Structures & Algorithms** (DSA)
+**Current Focus:** - ⚡ Mastering **Data Structures & Algorithms** (DSA)
 - 🐍 Building **Advanced Python Projects**
 - 🎮 Exploring **Game Development** and **AI**
 - 📱 **Embedded Systems** & IoT Applications
@@ -26,7 +38,11 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 ---
 
+<div align="center">
+
 ## 🛠️ **TECH STACK** | Premium Arsenal
+
+</div>
 
 <div align="center" style="background: linear-gradient(180deg, rgba(255,215,0,0.05) 0%, rgba(192,192,192,0.05) 100%); padding: 25px; border-radius: 12px; border: 1px solid #C0C0C0; margin: 20px 0;">
 
@@ -49,7 +65,11 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 ---
 
+<div align="center">
+
 ## 🏆 **ACHIEVEMENTS & STATS** | Track Record of Excellence
+
+</div>
 
 <div align="center" style="margin: 30px 0;">
 
@@ -69,7 +89,11 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 ---
 
+<div align="center">
+
 ## 🌐 **CODING PROFILES** | Competitive Excellence
+
+</div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 
@@ -95,7 +119,11 @@ I'm driven by **consistency, self-discipline, and lifelong learning**. My journe
 
 ---
 
+<div align="center">
+
 ## 📚 **FEATURED PROJECTS** | Innovation Showcase
+
+</div>
 
 <div style="margin: 20px 0;">
 
@@ -139,7 +167,11 @@ Algorithm analysis and implementation projects comparing different ML approaches
 
 ---
 
+<div align="center">
+
 ## 🐍 **CONTRIBUTION ACTIVITY** | Watch My Code Come Alive
+
+</div>
 
 <div align="center" style="margin: 30px 0; background-color: #000000; padding: 20px; border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 25px rgba(255,215,0,0.2);">
 
@@ -151,7 +183,11 @@ Algorithm analysis and implementation projects comparing different ML approaches
 
 ---
 
+<div align="center">
+
 ## 🚀 **VISION & GOALS** | The Journey Ahead
+
+</div>
 
 <div style="background: linear-gradient(135deg, #FFD700 0%, #C0C0C0 50%, #000000 100%); padding: 1px; border-radius: 10px; margin: 20px 0;">
 
@@ -181,7 +217,11 @@ Algorithm analysis and implementation projects comparing different ML approaches
 
 ---
 
+<div align="center">
+
 ## 🌐 **CONNECT WITH ME** | Let's Build Together
+
+</div>
 
 <div align="center" style="margin: 30px 0;">
 
