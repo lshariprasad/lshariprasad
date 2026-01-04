@@ -44,6 +44,25 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 > *Consistency beats motivation.*
 
 
+### 🌐 Connect
+<p align="left">
+<a href="https://github.com/lshariprasad">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+</a>
+<a href="https://leetcode.com/u/ls_hariprasad/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=FFD700"/>
+</a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=flat-square"/>
+</p>
+
+
+
 
 </td>
 
@@ -81,20 +100,3 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 </table>
 
 ---
-
-### 🌐 Connect
-<p align="left">
-<a href="https://github.com/lshariprasad">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-</a>
-<a href="https://leetcode.com/u/ls_hariprasad/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=FFD700"/>
-</a>
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=flat-square"/>
-</p>
