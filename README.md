@@ -18,9 +18,9 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 
 ### 🎯 Current Focus
 - Data Structures & Algorithms with Python  
-- Arduino & Embedded Systems  
-- Game Development with AI  
-- Eat / Sleep / Hardwork  
+- Arduino & ESP32 - For IOT Projects  
+- Game Development in python with AI  
+- Consistency beats perfection.
 
 ### 🛠 Tech I Use
 <p>
