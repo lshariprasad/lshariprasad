@@ -101,12 +101,9 @@ Bridging the physical world of electronics with the digital realm of code.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&theme=highcontrast&hide_border=true" height="165"/>
-</p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeXsidd&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=676565&area=true&hide_border=true" alt="graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=676565&area=true&hide_border=true" alt="graph" />
 </p>
 
 ---
