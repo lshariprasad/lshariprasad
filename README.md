@@ -8,19 +8,18 @@
 
 <p style="color:#FFD700;">
 <b>Electrical & Electronics Engineer</b><br/>
-Embedded Systems • Programming • DSA
+IOT Projects • Python Programmer • DSA
 </p>
 
 <p>
-Driven by <b>discipline</b>, <b>consistency</b>, and <b>real systems</b>.<br/>
-I build at the intersection of <b>electronics</b> and <b>software</b>.
+Building real-world systems with IoT, solving problems through Python, and strengthening foundations with Data Structures & Algorithms.
+Focused on consistency, clarity, and execution over perfection.
 </p>
 
 ### 🎯 Current Focus
 - Data Structures & Algorithms with Python  
 - Arduino & ESP32 - For IOT Projects  
 - Game Development in python with AI  
-- Consistency beats perfection.
 
 ### 🛠 Tech Languages Use :
 <p>
