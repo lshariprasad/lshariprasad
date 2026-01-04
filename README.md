@@ -84,7 +84,7 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <table width="95%">
