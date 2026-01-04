@@ -38,6 +38,7 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
 
