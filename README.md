@@ -107,11 +107,9 @@ My journey bridges the physical world of electronics with the digital realm of c
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50"  height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50" height="50" alt="MySQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="50" height="50" alt="Arduino" />
 </p>
 
@@ -121,9 +119,8 @@ My journey bridges the physical world of electronics with the digital realm of c
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/PyCharm/PyCharm-original.svg" width="50" height="50" alt="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="50" height="50" alt="Jupyter" />
   <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" height="50" width="50" alt="Vercel" />
 </p>
 
