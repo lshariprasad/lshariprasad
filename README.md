@@ -43,35 +43,30 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 
 > *Consistency beats motivation.*
 
+### 🏆 GitHub Trophies
 
-### 🌐 Connect
+<img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=2&column=6" />
 
-<p align="left">
+---
 
-<a href="https://github.com/lshariprasad">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-  &nbsp; <b>lshariprasad</b>
-</a>
+### 📊 GitHub Profile Summary
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="100%" />
 
-<a href="https://leetcode.com/u/ls_hariprasad/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700"/>
-  &nbsp; <b>ls_hariprasad</b>
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="100%" />
 
-<a href="https://www.linkedin.com/in/lshariprasad1410/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
-  &nbsp; <b>Hari Prasad L S</b>
-</a>
+</td>
+<td width="50%">
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="100%" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=flat-square"/>
-</p>
+</td>
+</tr>
+</table>
 
 
 
