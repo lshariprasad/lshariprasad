@@ -17,10 +17,10 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 </p>
 
 ### 🎯 Current Focus
-- Data Structures & Algorithms  
-- Python & C Programming  
+- Data Structures & Algorithms with python
 - Arduino & Embedded Systems  
-- Game Development & AI  
+- Game Development with AI
+- Eat / Sleep / Hardwork
 
 ### 🛠 Tech I Use
 <p>
@@ -30,6 +30,15 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+</p>
+
+### 🧰 IDEs & Tools I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" height="50" width="50" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm" />
 </p>
 
 > *Consistency beats motivation.*
