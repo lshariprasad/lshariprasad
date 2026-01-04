@@ -71,6 +71,12 @@ Focused on consistency, clarity, and execution over perfection.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
+</div>
+
 ### 📜 LeetCode
 - 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
 - 💻 Languages Used: Python
@@ -93,11 +99,7 @@ Focused on consistency, clarity, and execution over perfection.
 </tr>
 </table>
 
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
-</p>
-</div>
+
 
 </td>
 </tr>
