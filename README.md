@@ -96,9 +96,10 @@
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-Consistency beats perfection.
-Perfection demands the ideal moment.
-Consistency creates results in imperfect moments.
+-Consistency over perfection.
+-Discipline over motivation.
+-Execution over noise.
+-Results over words.
 
 </td>
 </tr>
@@ -107,7 +108,7 @@ Consistency creates results in imperfect moments.
 <div align="center">
 
 <p style="text-align:center; font-size:18px; font-style:italic;">
-🧘 Success demands – "Show up daily, execute quietly, and let results speak."
+🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
