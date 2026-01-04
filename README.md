@@ -63,12 +63,13 @@ Focused on consistency, clarity, and execution over perfection.
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;Arduino+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
 </p>
 
-### 📜 LeetCode
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
-- 💻 Languages Used: Python
 
-<p>
-<img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
 </p>
 
 <!-- Profile Views Counter -->
@@ -77,12 +78,12 @@ Focused on consistency, clarity, and execution over perfection.
 </p>
 </div>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
-</p>
+### 📜 LeetCode
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
+- 💻 Languages Used: Python
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
+<p>
+<img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
