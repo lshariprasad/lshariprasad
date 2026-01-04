@@ -8,7 +8,6 @@
 
 <p style="color:#FFD700;">
 <b>B.E.Electrical & Electronics Engineer</b><br/>
-<b>I am currently pursuing my studies at Saveetha Institute of Medical and Technical Sciences (SIMATS).</b><br/>
 IOT Projects • Python Programmer • DSA
 </p>
 
