@@ -93,6 +93,10 @@ Focused on consistency, clarity, and execution over perfection.
 </tr>
 </table>
 
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=70a5fd&style=for-the-badge&label=Profile+Views" />
+
+</div>
 
 </td>
 </tr>
