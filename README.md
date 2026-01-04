@@ -40,7 +40,6 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
 </p>
 
-> *Consistency beats motivation.*
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=5" width="95%" />
@@ -94,6 +93,7 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 </tr>
 </table>
 
+> *Consistency beats motivation.*
 
 </td>
 </tr>
