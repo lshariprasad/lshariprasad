@@ -102,46 +102,30 @@ My journey bridges the physical world of electronics with the digital realm of c
 
 ## 🛠️ **TECH STACK**  
 
-<span style="color:#C0C0C0;">Premium Arsenal</span>
+### 💻 I Code In
 
-
-
-</div>
-
-
-
-<h3 align="center">💻 <span style="color:#FFD700;">Languages & Frameworks</span></h3>
-
-
-
-<p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px; border:1px solid #FFD700; display:inline-block;">
-
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000"/>
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFD700"/>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000"/>
-
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000"/>
-
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000"/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50"  height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50" height="50" alt="MySQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="50" height="50" alt="Arduino" />
 </p>
 
 
 
-<h3 align="center">🧰 <span style="color:#FFD700;">Tools & Platforms</span></h3>
+### 🧰 IDEs & Tools I Use
 
-
-
-<p align="center" style="background-color:#0D1117; padding:15px; border-radius:15px; border:1px solid #FFD700; display:inline-block;">
-
-  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,figma,postman,github,vercel,netlify,raspberrypi&theme=dark"/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="50" height="50" alt="Jupyter" />
+  <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" height="50" width="50" alt="Vercel" />
 </p>
-
 
 
 ---
