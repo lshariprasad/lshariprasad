@@ -100,13 +100,16 @@
 </tr>
 </table>
 
-<p align="center">
+<div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<p style="text-align:center; font-size:18px; font-style:italic;">
+💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-**⭐ If you like what I do, consider giving my repos a star! ⭐**
-
+<p style="text-align:center; font-weight:bold; font-size:16px;">
+⭐ If you like what I do, consider giving my repos a star! ⭐
 </p>
+
 </div>
