@@ -43,6 +43,15 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 
 > *Consistency beats motivation.*
 
+### 📜 LeetCode
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
+- 💻 Languages Used: Python
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" alt="leetcode stats" />
+</p>
+
+
 </td>
 
 <!-- RIGHT PANEL -->
