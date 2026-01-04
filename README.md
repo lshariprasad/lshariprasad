@@ -43,13 +43,6 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 
 > *Consistency beats motivation.*
 
-### 📜 LeetCode
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
-- 💻 Languages Used: Python
-
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" alt="leetcode stats" />
-</p>
 
 
 </td>
@@ -68,6 +61,15 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true"/>
 </p>
+
+### 📜 LeetCode
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
+- 💻 Languages Used: Python
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" alt="leetcode stats" />
+</p>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg"/>
