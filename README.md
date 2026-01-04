@@ -87,13 +87,15 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
 
-</td>
-</tr>
-</table>
-
 <table width="95%">
 <td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="80%" />
 </td>
 </tr>
 </table>
+
+
+</td>
+</tr>
+</table>
+
