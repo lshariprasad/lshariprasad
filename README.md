@@ -14,16 +14,6 @@
 <!-- LEFT PANEL -->
 <td width="48%" valign="top">
 
-<p style="color:#FFD700;">
-<b>B.E.Electrical & Electronics Engineer</b><br/>
-IOT Projects • Python Programmer • DSA
-</p>
-
-<p>
-Building real-world systems with IoT, solving problems through Python, and strengthening foundations with Data Structures & Algorithms.
-Focused on consistency, clarity, and execution over perfection.
-</p>
-
 ### 🎯 Current Focus
 - Data Structures & Algorithms with Python  
 - Arduino & ESP32 - For IOT Projects  
@@ -61,6 +51,14 @@ Focused on consistency, clarity, and execution over perfection.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="80%" />
 </td>
 </table>
+
+<table width="95%">
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
+
 
 </td>
 
