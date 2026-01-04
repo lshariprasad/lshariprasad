@@ -96,8 +96,6 @@
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-<td width="48%" valign="top">
-
 ### 🧠 Core Principles
 - 🔁 Consistency over perfection  
 - 🧱 Discipline over motivation  
