@@ -69,6 +69,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;Arduino+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
+</div>
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
@@ -94,12 +100,6 @@
 - 🧱 Discipline over motivation  
 - ⚙️ Execution over noise  
 - 🏆 Results over words  
-
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
-</p>
-</div>
 
 </td>
 
