@@ -78,12 +78,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
-</p>
-</div>
-
 ### 📜 LeetCode
 - 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
 - 💻 Languages Used: Python
@@ -100,6 +94,12 @@
 - 🧱 Discipline over motivation  
 - ⚙️ Execution over noise  
 - 🏆 Results over words  
+
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
+</div>
 
 </td>
 
