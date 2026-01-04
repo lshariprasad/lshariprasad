@@ -82,7 +82,7 @@ Focused on consistency, clarity, and execution over perfection.
 
 
 
-<p align="center">
+
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
@@ -94,8 +94,9 @@ Focused on consistency, clarity, and execution over perfection.
 </table>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=70a5fd&style=for-the-badge&label=Profile+Views" />
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=gold&style=for-the-badge&label=Profile+Views" />
+</p>
 </div>
 
 </td>
