@@ -96,6 +96,10 @@
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
+Consistency beats perfection.
+Perfection demands the ideal moment.
+Consistency creates results in imperfect moments.
+
 </td>
 </tr>
 </table>
@@ -103,7 +107,7 @@
 <div align="center">
 
 <p style="text-align:center; font-size:18px; font-style:italic;">
-💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+🧘 Success demands – "Show up daily, execute quietly, and let results speak."
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
