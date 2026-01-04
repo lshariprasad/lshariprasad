@@ -102,3 +102,10 @@ Focused on consistency, clarity, and execution over perfection.
 </tr>
 </table>
 
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+**⭐ If you like what I do, consider giving my repos a star! ⭐**
+
+</div>
