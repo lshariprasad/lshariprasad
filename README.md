@@ -71,19 +71,7 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
 </p>
 
-### 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="80%" />
 
-<table width="95%">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="80%" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="80%" />
-</td>
-</tr>
-</table>
 
 
 <p align="center">
