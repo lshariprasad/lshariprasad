@@ -93,7 +93,6 @@ I build at the intersection of <b>electronics</b> and <b>software</b>.
 </tr>
 </table>
 
-> *Consistency beats motivation.*
 
 </td>
 </tr>
