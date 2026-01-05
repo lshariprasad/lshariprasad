@@ -43,7 +43,10 @@
 
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=5" width="95%" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=matrix&no-frame=true&margin-w=6&row=2&column=4" width="95%"/>
+</p>
+
 
 ### 📊 GitHub Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="80%" />
