@@ -43,7 +43,6 @@
 <img src="https://www.svgrepo.com/show/374065/scilab.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
 <img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kicad/kicad-original.png" width="40"/>
 <img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
 
 
