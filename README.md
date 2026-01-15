@@ -40,6 +40,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/KiCad-Logo.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/374065/scilab.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/analogdevices.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/eez-open/eez-studio/master/packages/eez-studio-ui/assets/eez_logo.png" width="40"/>
+
+
 </p>
 
 
