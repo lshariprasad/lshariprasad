@@ -133,6 +133,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <p style="text-align:center; font-weight:bold; font-size:16px;">
+
+
   
 ⭐ If you like what I do, consider giving my repos a star! ⭐
 </p>
