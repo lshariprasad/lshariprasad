@@ -18,8 +18,8 @@
 
 ### 🎯 Current Focus
 - Data Structures & Algorithms with Python  
-- Arduino & ESP32 - For IOT Projects  
-- Game Development in python with AI  
+- IOT Projects - Based On Robotics
+- Project Development in python with AI  
 
 ### 🛠 Tech Languages Use :
 <p>
