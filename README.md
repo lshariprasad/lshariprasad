@@ -80,7 +80,7 @@
 <td width="52%" valign="top">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;Arduino+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;IOT+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
 </p>
 
 <!-- Profile Views Counter -->
