@@ -47,8 +47,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
 <img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
-
-
+<img src="https://img.shields.io/badge/puTTY-EDA-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/WinSCP-EDA-red?style=flat-square"/>
 
 </p>
 
