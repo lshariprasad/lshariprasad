@@ -20,7 +20,7 @@
 - Data Structures & Algorithms with Python  
 - IOT Projects - Based On Robotics
 - Project Development in python with AI  
-
+- FireBase For App Development 
 ### 🛠 Tech Languages Use :
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
