@@ -54,7 +54,7 @@
 
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=lshariprasad&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
 
 
 
