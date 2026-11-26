@@ -1,145 +1,84 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=L%20S%20HARI%20PRASAD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
+# L. S. Hari Prasad
 
+### Electrical & Electronics Engineering Undergraduate | Embedded Systems | VLSI | IoT
 
+<p>
+  <a href="https://github.com/lshariprasad">GitHub</a> •
+  <a href="https://leetcode.com/u/ls_hariprasad/">LeetCode</a>
+</p>
 
 </div>
 
+---
 
+## About
 
+I am an Electrical and Electronics Engineering undergraduate at **Saveetha School of Engineering, SIMATS**, with an expected graduation year of **2028**.
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
+I enjoy building practical systems that connect electronics, firmware and software. My interests include embedded systems, IoT, robotics, digital electronics and introductory VLSI circuit analysis.
 
-<!-- LEFT PANEL -->
-<td width="48%" valign="top">
+I use GitHub to document experiments, share project code and make my engineering work easier to understand and reproduce.
 
-### 🎯 Current Focus
-- Data Structures & Algorithms with Python  
-- IOT Projects - Based On Robotics
-- Project Development in python with AI  
-- FireBase For App Development 
-### 🛠 Tech Languages Use :
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=FFFFFF" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/>
-</p>
+- **Core interests:** Embedded systems, firmware, IoT, robotics, CMOS circuits and VLSI fundamentals
+- **Programming:** Python, C and C++; working knowledge of HTML, CSS and JavaScript
+- **Hardware platforms:** ESP32, ESP8266, Arduino and Raspberry Pi
+- **Engineering tools:** LTspice, MATLAB, KiCad, Arduino IDE and VS Code
+- **Currently developing:** Stronger foundations in digital design, Verilog, RTL concepts and reproducible hardware/software projects
+- **Long-term goal:** Contribute to open-source engineering projects and prepare for opportunities such as Google Summer of Code 2027
 
-### 🧰 IDEs & Tools Use :
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
-<img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/374065/scilab.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
-<img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/puTTY-EDA-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/WinSCP-EDA-red?style=flat-square"/>
+## Featured engineering work
 
-</p>
+| Repository | Area | What it contains |
+|---|---|---|
+| [CCU VLSI Preparation](https://github.com/lshariprasad/CCU_VLSI_Preparation) | VLSI / CMOS | LTspice-based CMOS and 6T SRAM learning experiments, including hold-mode analysis |
+| [IoT-LAB](https://github.com/lshariprasad/IoT-LAB) | Embedded / IoT | Arduino, ESP32 and ESP8266 project collection |
+| [Power System MATLAB](https://github.com/lshariprasad/PowerSystem---1-and-2-Matlab-) | Electrical engineering | MATLAB implementations for power-system analysis coursework |
+| [DEV-APP](https://github.com/lshariprasad/DEV-APP) | Application development | Flutter and related application experiments |
 
+## Technical toolkit
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=lshariprasad&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
+**Programming**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+**Electronics and engineering**
 
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-Simulation-blue?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 
-### 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="80%" />
+**Developer workflow**
 
-<table width="95%">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="80%" />
-</td>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-<table width="95%">
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="80%" />
-</td>
-</tr>
-</table>
+## What I am working towards
 
+- Building well-documented embedded projects with clear wiring, firmware setup and test procedures.
+- Strengthening digital electronics, CMOS and SRAM fundamentals through simulation and analysis.
+- Improving code quality with modular design, version control and reproducible examples.
+- Learning how to contribute useful fixes, documentation and features to open-source projects.
 
-</td>
+## Engineering principles
 
-<!-- RIGHT PANEL -->
-<td width="52%" valign="top">
+- **Build and verify:** Prefer tested results over unsupported claims.
+- **Document clearly:** Make setup, assumptions and limitations visible.
+- **Learn continuously:** Improve through experiments, feedback and collaboration.
+- **Contribute responsibly:** Keep changes useful, reviewable and reproducible.
+
+---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;IOT+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
+  Thanks for visiting. Feel free to explore the repositories and share constructive feedback.
 </p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
-</p>
-</div>
-
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
-</p>
-
-### 📜 LeetCode
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
-- 💻 Languages Used: Python
-
-<p>
-<img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
-</p>
-
-<img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-### 🧠 Core Principles
-- 🔁 Consistency over perfection  
-- 🧱 Discipline over motivation  
-- ⚙️ Execution over noise  
-- 🏆 Results over words  
-
-</td>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-<!-- Animated Footer -->
-
-<p style="text-align:center; font-size:18px; font-style:italic;">
-🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
-</p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<p style="text-align:center; font-weight:bold; font-size:16px;">
-
-
-  
-⭐ If you like what I do, consider giving my repos a star! ⭐
-</p>
-
-</div>
