@@ -1,84 +1,126 @@
-<div align="center">
 
-# L. S. Hari Prasad
-
-### Electrical & Electronics Engineering Undergraduate | Embedded Systems | VLSI | IoT
-
-<p>
-  <a href="https://github.com/lshariprasad">GitHub</a> •
-  <a href="https://leetcode.com/u/ls_hariprasad/">LeetCode</a>
-</p>
-
-</div>
-
----
-
-## About
-
-I am an Electrical and Electronics Engineering undergraduate at **Saveetha School of Engineering, SIMATS**, with an expected graduation year of **2028**.
-
-I enjoy building practical systems that connect electronics, firmware and software. My interests include embedded systems, IoT, robotics, digital electronics and introductory VLSI circuit analysis.
-
-I use GitHub to document experiments, share project code and make my engineering work easier to understand and reproduce.
-
-- **Core interests:** Embedded systems, firmware, IoT, robotics, CMOS circuits and VLSI fundamentals
-- **Programming:** Python, C and C++; working knowledge of HTML, CSS and JavaScript
-- **Hardware platforms:** ESP32, ESP8266, Arduino and Raspberry Pi
-- **Engineering tools:** LTspice, MATLAB, KiCad, Arduino IDE and VS Code
-- **Currently developing:** Stronger foundations in digital design, Verilog, RTL concepts and reproducible hardware/software projects
-- **Long-term goal:** Contribute to open-source engineering projects and prepare for opportunities such as Google Summer of Code 2027
-
-## Featured engineering work
-
-| Repository | Area | What it contains |
-|---|---|---|
-| [CCU VLSI Preparation](https://github.com/lshariprasad/CCU_VLSI_Preparation) | VLSI / CMOS | LTspice-based CMOS and 6T SRAM learning experiments, including hold-mode analysis |
-| [IoT-LAB](https://github.com/lshariprasad/IoT-LAB) | Embedded / IoT | Arduino, ESP32 and ESP8266 project collection |
-| [Power System MATLAB](https://github.com/lshariprasad/PowerSystem---1-and-2-Matlab-) | Electrical engineering | MATLAB implementations for power-system analysis coursework |
-| [DEV-APP](https://github.com/lshariprasad/DEV-APP) | Application development | Flutter and related application experiments |
-
-## Technical toolkit
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Electronics and engineering**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-Simulation-blue?style=flat)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
-
-**Developer workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-## What I am working towards
-
-- Building well-documented embedded projects with clear wiring, firmware setup and test procedures.
-- Strengthening digital electronics, CMOS and SRAM fundamentals through simulation and analysis.
-- Improving code quality with modular design, version control and reproducible examples.
-- Learning how to contribute useful fixes, documentation and features to open-source projects.
-
-## Engineering principles
-
-- **Build and verify:** Prefer tested results over unsupported claims.
-- **Document clearly:** Make setup, assumptions and limitations visible.
-- **Learn continuously:** Improve through experiments, feedback and collaboration.
-- **Contribute responsibly:** Keep changes useful, reviewable and reproducible.
-
----
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">
+  <span>Hi, I'm HARI PRASAD L S</span>
+</h1>
 
 <p align="center">
-  Thanks for visiting. Feel free to explore the repositories and share constructive feedback.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=700&lines=Passionate+about+Programming+and+Electronics;Exploring+Game+Development;Always+Learning+and+Building+Cool+Tech+Things;Engineer+by+Degree%2C+Creator+by+Passion" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌌 About Me
+
+💡 I'm an **Electrical Engineer** with a growing passion for **coding, design, and innovation.**
+
+🔥 I love building projects that blend **engineering logic with creative power.**
+
+🎯 Currently focused on mastering **JavaScript Projects and Game Development.**
+
+💪 I believe in **consistency, self-discipline, and lifelong learning.**
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino&theme=dark" />
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+</p>
+
+---
+
+### 🏆 Coding Profiles
+
+#### 🔹 GeeksforGeeks
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?user=lshariprawwyr" alt="GeeksforGeeks Stats"/>
+  </a>
+</p>
+
+#### 🔹 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/ls_hariprasad/">
+    <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=FFA116&hide_border=true&border_radius=10" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lshariprasad&background=0D1117&ring=FFA116&fire=FFB000&currStreakLabel=FFA116&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&hide_border=true&border_radius=10" height="165" alt="Top Languages"/>
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=0D1117&color=FFA116&line=FFA116&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🐍 Watch My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/lshariprasad" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lshariprasad1410/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ls_hariprasad/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  ⚡ DISCIPLINE • CODE • CREATE • INNOVATE ⚡
+</h3>
+
+<p align="center">
+  <i>"Great things are built through consistency, curiosity, and determination."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lshariprasad&label=Profile%20Views&color=FFA116&style=flat" alt="Profile Views"/>
 </p>
