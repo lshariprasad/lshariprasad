@@ -1,168 +1,158 @@
+
 <div align="center">
 
-<!-- Animated Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HARI%20PRASAD%20L%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=VLSI%20%26%20EMBEDDED%20SYSTEMS%20%7C%20EEE%20%40%20SIMATS&descAlignY=52&descSize=17&descColor=fff" width="100%"/>
-
-### Electronics & Hardware • VLSI • Embedded Systems
-
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-VLSI%20DESIGN-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SYSTEMS-00A86B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EEE-SIMATS-1E90FF?style=for-the-badge"/>
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARI%20PRASAD%20L%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I am **Hari Prasad L S**, an Electrical and Electronics Engineering undergraduate at **Saveetha School of Engineering (SIMATS)**. My core interests are **VLSI Design** and **Embedded Systems** — from exploring transistor-level circuits and SRAM concepts to building microcontroller-based hardware systems.
-
-I enjoy working close to the hardware: understanding how circuits work, writing firmware, interfacing sensors, and turning engineering ideas into practical systems.
-
-## 🎯 Core Focus Areas
-
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
 
-### 🔬 VLSI Design
-- CMOS and digital design fundamentals
-- 6T SRAM cell architecture
-- Hold Static Noise Margin (HSNM) analysis
-- Circuit simulation using LTspice
-- Verilog and RTL design fundamentals
+<!-- LEFT PANEL -->
+<td width="48%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+### 🎯 Current Focus
+- VLSI Design & SRAM Circuit Analysis
+- Embedded Systems & Microcontroller Development
+- Verilog, CMOS & Digital Electronics
+- Arduino, ESP32 & Raspberry Pi Hardware Projects
 
-### ⚡ Embedded Systems
-- Embedded C / C++ programming
-- Arduino, ESP32 and ESP8266
-- Raspberry Pi and hardware interfacing
-- Sensor and actuator integration
-- Firmware development and IoT systems
-- PCB design and hardware prototyping
-
-</td>
-</tr>
-</table>
-
-## 🧰 Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LTspice-EDA-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### 🛠 Tech Languages Use :
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=FFFFFF" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-## 🚀 Featured Engineering Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 VLSI & SRAM Preparation
-
-**[CCU_VLSI_Preparation](https://github.com/lshariprasad/CCU_VLSI_Preparation)**
-
-A focused VLSI learning repository covering 6T SRAM concepts and LTspice-based circuit analysis, including Hold Static Noise Margin exploration.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Embedded Systems Lab
-
-**[IoT-LAB](https://github.com/lshariprasad/IoT-LAB)**
-
-A collection of 22+ practical projects using Arduino, ESP32 and ESP8266, covering sensors, automation, monitoring, robotics and hardware-software integration.
-
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Statistics
-
-<div align="center">
+### 🧰 IDEs & Tools Use :
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/374065/scilab.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
+<img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
+</p>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
 
-### 📊 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="100%"/>
+### 📊 GitHub Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="80%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="49%"/>
+<table width="95%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
 
-### ⚡ Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="100%"/>
+<table width="95%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
+</td>
 
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Hari Prasad's GitHub contribution snake animation"/>
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/lshariprasad">
-  <img src="https://img.shields.io/badge/GitHub-lshariprasad-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/lshariprasad1410">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:06hariumaraja@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://orcid.org/0009-0007-3749-5632">
-  <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<p>
-<a href="https://leetcode.com/u/ls_hariprasad/">LeetCode</a> •
-<a href="https://www.hackerrank.com/profile/lshariprasad1410">HackerRank</a> •
-<a href="https://gitlab.com/lshariprasad1410">GitLab</a> •
-<a href="https://github.com/lshariprasad?tab=followers">GitHub Followers</a> •
-<a href="https://github.com/lshariprasad?tab=following">Following</a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=VLSI+Design+%26+Circuit+Analysis;Embedded+Systems+%26+Electronics;Building+Real+Hardware+Systems" />
 </p>
 
-🎓 **Saveetha School of Engineering (SIMATS)**  
-📍 First Floor, 6C, CTA Garden, 1st Ave, Mangadu, Tamil Nadu 600122  
-📧 **[06hariumaraja@gmail.com](mailto:06hariumaraja@gmail.com)**  
-🔬 **[ORCID: 0009-0007-3749-5632](https://orcid.org/0009-0007-3749-5632)**
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
+</p>
+
+### 📜 LeetCode
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
+- 💻 Languages Used: Python
+
+<p>
+<img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+</p>
+
+<!-- GitHub Contribution Snake -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Hari Prasad GitHub Contribution Snake"/>
+</p>
+
+### 🧠 Core Principles
+- 🔁 Consistency over perfection
+- 🧱 Discipline over motivation
+- ⚙️ Execution over noise
+- 🏆 Results over words
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🧠 Engineering Mindset
+### 🌐 Connect With Me
 
-**Understand the circuit. Build the system. Make it work.**
+<p>
+<a href="https://github.com/lshariprasad">
+<img src="https://img.shields.io/badge/GitHub-lshariprasad-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/lshariprasad1410">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:06hariumaraja@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://orcid.org/0009-0007-3749-5632">
+<img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+</p>
 
-*Focused on VLSI Design and Embedded Systems.*
+<p>
+<a href="https://github.com/lshariprasad?tab=followers">1.8k Followers</a> •
+<a href="https://github.com/lshariprasad?tab=following">5.1k Following</a> •
+<a href="https://leetcode.com/u/ls_hariprasad/">LeetCode</a> •
+<a href="https://www.hackerrank.com/profile/lshariprasad1410">HackerRank</a> •
+<a href="https://gitlab.com/lshariprasad1410">GitLab</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<p>
+🎓 Saveetha School of Engineering (SIMATS)<br/>
+📍 First Floor, 6C, CTA Garden, 1st Ave, Mangadu, Tamil Nadu 600122<br/>
+📧 <a href="mailto:06hariumaraja@gmail.com">06hariumaraja@gmail.com</a><br/>
+🔬 <a href="https://orcid.org/0009-0007-3749-5632">ORCID Research Profile</a>
+</p>
 
-⭐ If you find my engineering work useful, consider starring my repositories!
+<!-- Animated Footer -->
+<p style="text-align:center; font-size:18px; font-style:italic;">
+🧘 “Every sleepless night is an investment in a future others won’t reach.” — HARI PRASAD L S
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<p style="text-align:center; font-weight:bold; font-size:16px;">
+⭐ If you like what I do, consider giving my repos a star! ⭐
+</p>
 
 </div>
