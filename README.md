@@ -1,14 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARI%20PRASAD%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARI%20PRASAD%20L%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
 
 </div>
-
-
-
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -18,8 +13,9 @@
 
 ### 🎯 Current Focus
 - Data Structures & Algorithms with Python  
-- Arduino & ESP32 - For IOT Projects  
-- Game Development in python with AI  
+- Arduino & ESP32 - For IoT Projects  
+- VLSI, SRAM Design & Verilog  
+- Embedded Systems, PCB Design & Hardware Development  
 
 ### 🛠 Tech Languages Use :
 <p>
@@ -44,35 +40,29 @@
 <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
 <img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
-
-
-
 </p>
 
-
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=vijayanand2005&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
-
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
 
 ### 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayanand2005&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="80%" />
 
 <table width="95%">
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijayanand2005&theme=github_dark" width="80%" />
-</td>
-</table>
-
-<table width="95%">
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijayanand2005&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="80%" />
 </td>
 </tr>
 </table>
 
+<table width="95%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -80,33 +70,33 @@
 <td width="52%" valign="top">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;Arduino+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;Arduino+%7C+VLSI+%7C+Programming;Building+Real+Hardware+Systems" />
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
 </p>
-</div>
-
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayanand2005&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vijayanand2005&theme=highcontrast&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
 </p>
 
 ### 📜 LeetCode
-- 🔗 [View My LeetCode Profile]((https://leetcode.com/u/VIJAYANANDV1725/))
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
 - 💻 Languages Used: Python
 
 <p>
-<img src="https://leetcard.jacoblin.cool/VIJAYANANDV17255?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+<img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/vijayanand2005/vijayanand2005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- GitHub Contribution Snake -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Hari Prasad's GitHub contribution snake animation"/>
 </p>
 
 ### 🧠 Core Principles
@@ -116,26 +106,44 @@
 - 🏆 Results over words  
 
 </td>
-
-</td>
 </tr>
 </table>
 
 <div align="center">
-  
-<!-- Animated Footer -->
 
-<p style="text-align:center; font-size:18px; font-style:italic;">
-🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
+<!-- Contact & Profile Links -->
+### 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/lshariprasad"><img src="https://img.shields.io/badge/GitHub-lshariprasad-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/lshariprasad1410"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:06hariumaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0007-3749-5632"><img src="https://img.shields.io/badge/ORCID-0009--0007--3749--5632-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 
+<p>
+<a href="https://leetcode.com/u/ls_hariprasad/">LeetCode</a> •
+<a href="https://www.hackerrank.com/profile/lshariprasad1410">HackerRank</a> •
+<a href="https://gitlab.com/lshariprasad1410">GitLab</a> •
+<a href="https://github.com/lshariprasad?tab=followers">GitHub Followers</a> •
+<a href="https://github.com/lshariprasad?tab=following">Following</a>
+</p>
+
+<p>
+🎓 Saveetha School of Engineering (SIMATS)<br/>
+📍 First Floor, 6C, CTA Garden, 1st Ave, Mangadu, Tamil Nadu 600122<br/>
+📧 <a href="mailto:06hariumaraja@gmail.com">06hariumaraja@gmail.com</a><br/>
+🔬 <a href="https://orcid.org/0009-0007-3749-5632">ORCID Research Profile</a>
+</p>
+
+<!-- Animated Footer -->
+<p style="text-align:center; font-size:18px; font-style:italic;">
+🧘 “Every sleepless night is an investment in a future others won’t reach.” — HARI PRASAD L S
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <p style="text-align:center; font-weight:bold; font-size:16px;">
-
-
-  
 ⭐ If you like what I do, consider giving my repos a star! ⭐
 </p>
 
