@@ -133,7 +133,7 @@ A collection of 22+ practical projects using Arduino, ESP32 and ESP8266, coverin
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://orcid.org/0009-0007-3749-5632">
-  <img src="https://img.shields.io/badge/ORCID-Research- A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
 <p>
