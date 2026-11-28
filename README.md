@@ -1,126 +1,142 @@
+<div align="center">
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">
-  <span>Hi, I'm HARI PRASAD L S</span>
-</h1>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARI%20PRASAD%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=700&lines=Passionate+about+Programming+and+Electronics;Exploring+Game+Development;Always+Learning+and+Building+Cool+Tech+Things;Engineer+by+Degree%2C+Creator+by+Passion" alt="Typing SVG" />
+
+
+</div>
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- LEFT PANEL -->
+<td width="48%" valign="top">
+
+### 🎯 Current Focus
+- Data Structures & Algorithms with Python  
+- Arduino & ESP32 - For IOT Projects  
+- Game Development in python with AI  
+
+### 🛠 Tech Languages Use :
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=FFFFFF" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
----
+### 🧰 IDEs & Tools Use :
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
+<img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/374065/scilab.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
+<img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
 
-### 🌌 About Me
 
-💡 I'm an **Electrical Engineer** with a growing passion for **coding, design, and innovation.**
 
-🔥 I love building projects that blend **engineering logic with creative power.**
-
-🎯 Currently focused on mastering **JavaScript Projects and Game Development.**
-
-💪 I believe in **consistency, self-discipline, and lifelong learning.**
-
----
-
-### 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino&theme=dark" />
 </p>
 
----
 
-### 🧰 Tools
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=vijayanand2005&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
+
+
+
+
+### 📊 GitHub Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayanand2005&theme=github_dark" width="80%" />
+
+<table width="95%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijayanand2005&theme=github_dark" width="80%" />
+</td>
+</table>
+
+<table width="95%">
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijayanand2005&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
+
+
+</td>
+
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Embedded+Systems+%26+Electronics;Arduino+%7C+Programming+%7C+DSA;Building+Real+Hardware+Systems" />
 </p>
 
----
-
-### 🏆 Coding Profiles
-
-#### 🔹 GeeksforGeeks
-
+<!-- Profile Views Counter -->
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?user=lshariprawwyr" alt="GeeksforGeeks Stats"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
 </p>
+</div>
 
-#### 🔹 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/ls_hariprasad/">
-    <img src="https://leetcard.jacoblin.cool/ls_hariprasad?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats"/>
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Trophies & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lshariprasad&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lshariprasad&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=FFA116&hide_border=true&border_radius=10" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lshariprasad&background=0D1117&ring=FFA116&fire=FFB000&currStreakLabel=FFA116&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshariprasad&layout=compact&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&hide_border=true&border_radius=10" height="165" alt="Top Languages"/>
-</p>
-
----
-
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=0D1117&color=FFA116&line=FFA116&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🐍 Watch My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/lshariprasad" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lshariprasad1410/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ls_hariprasad/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/lshariprawwyr/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" alt="GeeksforGeeks"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">
-  ⚡ DISCIPLINE • CODE • CREATE • INNOVATE ⚡
-</h3>
-
-<p align="center">
-  <i>"Great things are built through consistency, curiosity, and determination."</i>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayanand2005&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lshariprasad&label=Profile%20Views&color=FFA116&style=flat" alt="Profile Views"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vijayanand2005&theme=highcontrast&hide_border=true" width="90%"/>
 </p>
+
+### 📜 LeetCode
+- 🔗 [View My LeetCode Profile]((https://leetcode.com/u/VIJAYANANDV1725/))
+- 💻 Languages Used: Python
+
+<p>
+<img src="https://leetcard.jacoblin.cool/VIJAYANANDV17255?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/vijayanand2005/vijayanand2005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+### 🧠 Core Principles
+- 🔁 Consistency over perfection  
+- 🧱 Discipline over motivation  
+- ⚙️ Execution over noise  
+- 🏆 Results over words  
+
+</td>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+<!-- Animated Footer -->
+
+<p style="text-align:center; font-size:18px; font-style:italic;">
+🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
+</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<p style="text-align:center; font-weight:bold; font-size:16px;">
+
+
+  
+⭐ If you like what I do, consider giving my repos a star! ⭐
+</p>
+
+</div>
